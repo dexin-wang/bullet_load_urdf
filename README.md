@@ -5,4 +5,4 @@ using pybullet to load urdf model with texture
 > python load_urdf.py
 
 # more urdfs
-This code use a model from YCB, if you are interesting with more urdf, please contact me <dexinwang@mail.sdu.edu>.
+This code uses a model from YCB, if you are interesting with more urdf models, please contact me with <dexinwang@mail.sdu.edu>.
